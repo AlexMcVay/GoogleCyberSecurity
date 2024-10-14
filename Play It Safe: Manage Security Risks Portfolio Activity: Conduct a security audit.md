@@ -95,3 +95,6 @@ To review the exemplar for this course item, click the following link and select
 Link to exemplar: [Stakeholder memorandum exemplar](https://docs.google.com/document/d/14Fov305DTfuMAbldTbQdrN7bNwfBrqrE6J6DuSgaQbE/template/preview?usp=sharing)
 
 </details>
+
+<embed
+
